@@ -131,6 +131,10 @@ body{
   width: 100%;
 }
 
+.bottom {
+  margin-top: 20%;
+}
+
 .card__background{
   background-size: cover;
   background-position: center;
