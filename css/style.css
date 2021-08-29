@@ -50,8 +50,9 @@ NOTE: This is main stylesheet of template, This file contains the styling for th
 }
 
 
-
-
+.text-margin{
+  margin-left: 7px;
+}
 
 *::-moz-selection { background: #afafaf; color: #fff; text-shadow: none; }
 ::-moz-selection { background: #afafaf; color: #fff; text-shadow: none; }
@@ -164,6 +165,9 @@ body {
   flex-wrap: wrap;
   min-height: 100vh;
   background: #231f22;
+}
+.footer-margin{
+  margin-left: 5vh;
 }
 
 body .container {
