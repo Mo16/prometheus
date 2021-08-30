@@ -122,7 +122,7 @@ body{
 }
 
 .card{
-  background-color: #231f22;
+  background-color: #221d20;
 
   list-style: none;
   position: relative;
@@ -190,7 +190,7 @@ body{
 *::-moz-selection { background: #afafaf; color: #fff; text-shadow: none; }
 ::-moz-selection { background: #afafaf; color: #fff; text-shadow: none; }
 ::selection { background: #afafaf; color: #fff; text-shadow: none; }
-body { font-family: 'adventure', cursive; font-weight: normal; position: relative; font-style: normal; font-size: 14px; line-height: 26px; color: #e3e3e3; overflow-x: hidden; background: #231f22; }
+body { font-family: 'adventure', cursive; font-weight: normal; position: relative; font-style: normal; font-size: 14px; line-height: 26px; color: #e3e3e3; overflow-x: hidden; background: #221d20; }
 a:hover, a:focus, a.active { text-decoration: none; outline: none; }
 a, a:hover, a:focus { color: #afafaf; -webkit-transition: all 250ms ease-in-out 0s; -moz-transition: all 250ms ease-in-out 0s; -ms-transition: all 250ms ease-in-out 0s; -o-transition: all 250ms ease-in-out 0s; transition: all 250ms ease-in-out 0s; text-decoration: none; }
 h1, h2, h3, h4, h5, h6 { font-family: 'adventure', sans-serif; font-weight: normal; color: #fff; margin-top: 0px; margin-bottom: 0px; }
@@ -205,7 +205,7 @@ h6 { font-size: 20px; line-height: normal; }
 ul { margin: 0px; padding: 0px; }
 li { list-style: none; }
 hr { margin: 0; padding: 0px; border-bottom: 1px solid #e0e0e0; border-top: 0px; }
-.blockquote { border-left: 5px solid #231f22; font-size: 16px; }
+.blockquote { border-left: 5px solid #221d20; font-size: 16px; }
 .container { max-width: 1170px; }
 
 /*---------------------------------------------------------------------
@@ -217,7 +217,7 @@ hr { margin: 0; padding: 0px; border-bottom: 1px solid #e0e0e0; border-top: 0px;
 /*---------------------------------------------------------------------
                                 Loader
 -----------------------------------------------------------------------*/
-#loading { background-color: #231f22; height: 100%; width: 100%; position: fixed; margin-top: 0px; top: 0px; left: 0px; bottom: 0px; overflow: hidden !important; right: 0px; z-index: 999999; }
+#loading { background-color: #221d20; height: 100%; width: 100%; position: fixed; margin-top: 0px; top: 0px; left: 0px; bottom: 0px; overflow: hidden !important; right: 0px; z-index: 999999; }
 #loading-center { position: absolute; left: 50%; top: 50%; margin-left: -75px; margin-top: -75px; }
 
 /*loader 2  */
@@ -297,7 +297,7 @@ body {
   align-items: center;
   flex-wrap: wrap;
   min-height: 100vh;
-  background: #231f22;
+  background: #221d20;
 }
 .footer-margin{
   margin-left: 5vh;
@@ -657,7 +657,7 @@ Margin Right
 /*---------------------------------------------------------------------
                             Text Color 
 -----------------------------------------------------------------------*/
-.iq-font-blue { color: #231f22; }
+.iq-font-blue { color: #221d20; }
 .iq-font-white { color: #ffffff; }
 .iq-font-black { color: #23292c; }
 .iq-font-light { color: #666666; }
@@ -674,8 +674,8 @@ Margin Right
 -----------------------------------------------------------------------*/
 .white-bg { background: #ffffff; }
 .grey-bg { background: #dfd4d4; }
-.blue-bg { background: #231f22; }
-.light-bg { background: #231f22; }
+.blue-bg { background: #221d20; }
+.light-bg { background: #221d20; }
 .yellow-bg { background: #afafaf; }
 
 /*---------------------------------------------------------------------
@@ -879,7 +879,7 @@ List Style
 ----------------------------------------------------------------------*/
 .trending-2 ul { padding: 0; margin: 0; padding-left: 20px; }
 .trending-2 ul li:after { position: absolute; color: #afafaf; content: ""; font-family: 'FontAwesome'; left: 0; top: 0; }
-.trending-2 ul li.dark:after { color: #231f22; }
+.trending-2 ul li.dark:after { color: #221d20; }
 
 /***************************
 Token Sale
@@ -909,7 +909,7 @@ Token Sale
   min-height: 100vh;
   align-items: center;
   justify-content: center;
-  background: #231f22;
+  background: #221d20;
 
   padding: 2em;
   font-family: 'Open Sans', sans-serif;
@@ -1140,14 +1140,14 @@ Teams 3
 .iq-our-team-2 .team-blog img { vertical-align: bottom; border-radius: 130px; }
 .iq-our-team-2 .team-blog:before { position: absolute; content: ""; width: 100%; height: 100%; left: 0; top: 0; background: rgba(249, 183, 7, 0.9); opacity: 0; }
 .iq-our-team-2 .team-blog .team-description { position: absolute; width: 100%; top: -10%; left: 0; color: #fff; margin-top: -20px; padding: 0; opacity: 0; }
-.iq-our-team-2 .team-blog .team-description a:hover { color: #231f22; }
+.iq-our-team-2 .team-blog .team-description a:hover { color: #221d20; }
 .iq-our-team-2 .team-blog:hover:before { opacity: 1; }
 .iq-our-team-2 .team-blog:hover .team-description { top: 40%; opacity: 1; }
 .iq-our-team-2 .team-blog:hover .team-social { bottom: 30px; opacity: 1; }
 .iq-our-team-2 .team-blog .team-social { position: absolute; left: 0; bottom: -10%; width: 100%; opacity: 0; }
 .iq-our-team-2 .team-blog .team-social ul { background: #ffffff; width: 100%; display: inline-block; }
 .iq-our-team-2 .team-blog .team-social ul li { display: inline-block; }
-.iq-our-team-2 .team-blog .team-social ul li a:hover { color: #231f22; }
+.iq-our-team-2 .team-blog .team-social ul li a:hover { color: #221d20; }
 .iq-our-team-2 .team-blog .team-social ul li a { font-size: 16px; padding: 0 5px; color: #afafaf; display: inline-block; float: none; line-height: 45px; text-align: center; background: transparent; }
 .iq-our-team-2, .iq-our-team-2 .team-blog:before, .iq-our-team-2 .team-blog:hover:before, .iq-our-team-2 .team-blog:hover .team-description, .iq-our-team-2 .team-blog:hover .team-social, .iq-our-team-2 .team-blog .team-social { -webkit-transition: all 0.3s ease-out 0s; -moz-transition: all 0.3s ease-out 0s; -ms-transition: all 0.3s ease-out 0s; -o-transition: all 0.3s ease-out 0s; transition: all 0.3s ease-out 0s; }
 
@@ -1347,7 +1347,7 @@ Footer 2
 /*Copyright*/
 .iq-footer .iq-copyright a { color: #afafaf; }
 .iq-footer .iq-copyright a:hover { color: #ffffff; }
-.iq-footer .footer-bottom { background: #231f22; }
+.iq-footer .footer-bottom { background: #221d20; }
 
 /*Social Media*/
 .iq-footer .iq-media-blog { margin: 0; padding: 0; text-align: right; }
